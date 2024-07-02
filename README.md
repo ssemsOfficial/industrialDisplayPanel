@@ -18,6 +18,8 @@
     • give lot of care to the display aesthetic.
 # global iot architecture : 
 ![iotArch](https://github.com/ssemsOfficial/industrialDisplayPanel/assets/84194047/6188595e-b648-4491-8114-c828051ed453)
+![iot arch desc](https://github.com/ssemsOfficial/industrialDisplayPanel/assets/84194047/49c387ab-aca1-4e62-b0cb-d5138240fd00)
+
 
 # embedded software engineering :
  • Design :
