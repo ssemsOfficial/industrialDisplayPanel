@@ -23,4 +23,17 @@
 
 # embedded software engineering :
  • Design :
- 
+ ![Screenshot 2024-07-02 222032](https://github.com/ssemsOfficial/industrialDisplayPanel/assets/84194047/9a280a0d-a9fd-4574-ac80-181e5a4b188e)
+ • Test : 
+ ![Screenshot 2024-07-02 222715](https://github.com/ssemsOfficial/industrialDisplayPanel/assets/84194047/be9ab421-c939-4820-97f9-a93dad62781d)
+ ![Screenshot 2024-07-02 223021](https://github.com/ssemsOfficial/industrialDisplayPanel/assets/84194047/f282bb6d-e06c-4a08-af51-d3bc07d06c88)
+
+# embedded hardware engineering :
+ • Design :
+ ![Screenshot 2024-07-02 222231](https://github.com/ssemsOfficial/industrialDisplayPanel/assets/84194047/a4f7e86c-94bf-456b-be2e-546c56344be3)
+ ![Screenshot 2024-07-02 222324](https://github.com/ssemsOfficial/industrialDisplayPanel/assets/84194047/44321e03-1079-4e0d-a91e-4cc472685c10)
+ ![Screenshot 2024-07-02 223222](https://github.com/ssemsOfficial/industrialDisplayPanel/assets/84194047/7a07a44b-4d53-4285-8a2a-65396f234e73)
+
+ • Test & Realization : 
+ ![Screenshot 2024-07-02 222715](https://github.com/ssemsOfficial/industrialDisplayPanel/assets/84194047/be9ab421-c939-4820-97f9-a93dad62781d)
+ ![Screenshot 2024-07-02 223021](https://github.com/ssemsOfficial/industrialDisplayPanel/assets/84194047/f282bb6d-e06c-4a08-af51-d3bc07d06c88)
