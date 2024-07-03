@@ -46,3 +46,6 @@
  • Test : 
  ![Screenshot 2024-07-02 222630](https://github.com/ssemsOfficial/industrialDisplayPanel/assets/84194047/2339e2bb-95e7-4b2e-996e-a6d53cebaa46)
 
+ ![industrial_display_panel-ezgif com-video-to-gif-converter](https://github.com/ssemsOfficial/industrialDisplayPanel/assets/84194047/9036b641-d687-42fb-8238-5b5973f1d498)
+
+
